@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolvimento Web",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3300,
+      "services": [
+        {
+          "name": "COntratar",
+          "cost": "1500",
+          "description": "Programador",
+          "id": "a5722f7b-f077-40b2-947a-5accff3ea10a"
+        },
+        {
+          "name": "Estágio",
+          "cost": "600",
+          "description": "estágiaroo Front-End",
+          "id": "86e4f1f5-7161-4164-af6c-5180a1c62764"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Estudos",
+      "budget": "5500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Finanças"
+    }
+  ]
+}
